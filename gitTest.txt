@@ -1,1 +1,3 @@
 This is Binita.
+spm lab
+lab 2
